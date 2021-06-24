@@ -1,0 +1,11 @@
+Linux/gcc_arm_aarch64_none_elf/aarch64-none-elf/lib/libstdc++.a filter=lfs diff=lfs merge=lfs -text
+Linux/gcc_arm_aarch64_none_elf/bin/aarch64-none-elf-gdb filter=lfs diff=lfs merge=lfs -text
+Windows/Xilinx_Vivado_SDK_Web_2018.3_1207_2324_Win64.exe filter=lfs diff=lfs merge=lfs -text
+Windows/msys2-x86_64-20210604.exe filter=lfs diff=lfs merge=lfs -text
+Windows/gcc_arm_aarch64_none_elf/_/lib/gcc/aarch64-none-elf/9.2.1/libstdc++.a filter=lfs diff=lfs merge=lfs -text
+Windows/gcc_arm_aarch64_none_elf/lib/gcc/aarch64-none-elf/9.2.1/libstdc++.a filter=lfs diff=lfs merge=lfs -text
+Linux/Xilinx_Vivado_SDK_Web_2018.3_1207_2324_Lin64.bin filter=lfs diff=lfs merge=lfs -text
+Windows/gcc_arm_aarch64_none_elf/_/bin/aarch64-none-elf-gdb.exe filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.a filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
